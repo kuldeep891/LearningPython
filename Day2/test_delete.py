@@ -12,8 +12,6 @@ for i in divki:
     print(i)
     print(divki.index(i))
 
-
-
     print("check for")
 print("EO For")
 
