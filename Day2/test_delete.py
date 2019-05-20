@@ -15,5 +15,3 @@ for i in divki:
     print("check for")
 print("EO For")
 
-
-print("test GIT")
